@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @ops3o
+- 👋 Hi, I'm @opsworld30
 - 👀 I'm interested in cloud-native technologies, DevOps practices, and building scalable systems
 - 🌱 I'm currently learning advanced Rust programming and exploring WebAssembly
 - 💞️ I'm looking to collaborate on open-source projects related to distributed systems or infrastructure automation
